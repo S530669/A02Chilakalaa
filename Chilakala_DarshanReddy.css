@@ -1,0 +1,88 @@
+body{
+	background-image: url("backgrounds.jpg");
+	background-repeat: no-repeat;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-style: normal;
+}
+h2{
+	color:  blue;
+	text-align: center;
+	}
+h3{
+	color:red;
+	text-align: justify;
+}
+.row{
+	margin: auto;
+	width: 100%;
+	text-align: justify;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size:15px;
+	color: black;
+}
+.background, .plans, .interests{
+	color: #0B0014;
+	font-family: "Times New Roman", Georgia, Serif;
+}
+.foot{
+	font-style: italic;
+	color: grey;
+	position: relative;
+	bottom: 0;
+}
+#t1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	background-color: grey;
+	font-size:17px;
+}
+.c1, .c2{
+	text-align: center;
+	width: 100%;
+}
+.fa {
+    font-size: 100px;
+    width: 50px;
+    text-align: center;
+}
+.fa-bitbucket{
+	padding: 12px;
+	width: 50px;
+    background: green;
+    color: white;
+}
+.fa-github{
+	padding: 12px;
+	width: 50px;
+    background: black;
+    color: white;
+}
+.fa-facebook {
+	padding: 12px;
+	width: 50px;
+    background: #3B5998;
+	color: white;
+}
+.fa-linkedin {
+	background: #007bb5;
+	color: white;
+	padding: 12px;
+	width: 50px;
+}
+.jumbotron{
+	background-color:grey;
+	min-height: 5px;
+	min-width: 5px;
+}
+.active{
+	font-size: 30px;
+	color: black;
+}
+.page-header{
+	color:black;
+}
+.page-header:hover{
+	color:red;
+}
